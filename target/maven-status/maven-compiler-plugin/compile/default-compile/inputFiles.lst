@@ -1,0 +1,11 @@
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/services/PatientServiceImpl.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/dao/DrugDaoImpl.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/controllers/PatientController.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/dao/PatientDao.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/dao/PatientDaoImpl.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/services/DrugServiceImpl.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/models/Patient.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/models/Drug.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/services/PatientService.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/dao/DrugDao.java
+/media/mark/MARKS/dhis/newassignment/src/main/java/com/newassignment/services/DrugService.java
