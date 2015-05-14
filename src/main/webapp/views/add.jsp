@@ -58,7 +58,7 @@
         <td>${patient.id}</td>
         <td>${patient.fname} ${patient.lname}</td>
         <td>${patient.dob}</td>
-        <td><a href="<c:url value='/allocate?id=${patient.id}' />" >Allocate Drug</a></td>
+        <td><a href="<c:url value='/assign?id=${patient.id}' />" >Allocate Drug</a></td>
       </tr>
     </c:forEach>
   </table>
